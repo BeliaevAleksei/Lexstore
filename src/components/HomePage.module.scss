@@ -1,0 +1,19 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+
+.header {
+  height: 300px;
+}
+
+.footer {
+
+}
+
+.body {
+  margin-top: 30px;
+}
